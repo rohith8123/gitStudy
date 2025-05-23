@@ -1,2 +1,4 @@
 hello world
 I'm rohith
+This is the message without staging area
+end
